@@ -18,7 +18,6 @@ A very simple To Do List web app. Inputs for items to complete. Each item can be
 4. Click **ADD**
 5. Item will then displays and has the option to be checked off as completed or completely deleted.
 
-The application requires an internet connection to access its external APIs. API availability and credential requirements may affect the results.
 
 
 ## Screenshots and Demo

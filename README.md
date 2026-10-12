@@ -1,22 +1,31 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# ✅ Simple TO DO LIST
 
-### Goal: Build a Simple Todo List
+## Project Description
 
-### How to submit your code for review:
+A very simple To Do List web app. Inputs for items to complete. Each item can be checked off as complete or completely deleted. 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Tech Stack
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+- **HTML** 
+- **CSS**
+- **JavaScript**
+
+## How to Run or View It
+
+1. Clone or download the repository.
+2. Open `index.html` in a browser or serve the project using a local development server.
+3. Input item "To Do"
+4. Click **ADD**
+5. Item will then displays and has the option to be checked off as completed or completely deleted.
+
+The application requires an internet connection to access its external APIs. API availability and credential requirements may affect the results.
+
+
+## Screenshots and Demo
+
+### Application Interface
+
+![Simple TO DO application interface](To-do-screenshot.png)
+
+
+The interface displays an input to add items to complete, each item then displays and has the option to be checked off as completed or completely deleted.
